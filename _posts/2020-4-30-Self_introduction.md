@@ -1,5 +1,5 @@
 ---
-title: self-introduction
+title: Self-Introduction
 ---
 
 Hi all,
